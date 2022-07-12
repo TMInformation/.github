@@ -1,4 +1,4 @@
-# Too Much Inventory
+# Too Much Information
 
 An open-source tool for collecting inventory information for On-Prem or Cloud-based environments.
 
